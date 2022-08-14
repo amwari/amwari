@@ -1,1 +1,0 @@
-# paint-github-2a8d8
