@@ -29,6 +29,6 @@ ion know, still learning ruby
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sycht&count_private=true&theme=apprentice&show_icons=true&hide_langs_below=1)
 
-# ok no
+   <img src="https://visitcount.itsvg.in/api?id=sycht&label=Profile%20Views&color=12&icon=2&pretty=true">
+</p>
 
-  bye
