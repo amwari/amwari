@@ -4,7 +4,7 @@
 <div align="center">
 
 # goofy ahh
-<p>i program..?? (most of my repos are hidden/deleted now</p>
+<p>i program..?? (most of my repos are hidden/deleted now<br>creds to me to the banner</p>
 
 
 
