@@ -1,4 +1,4 @@
-<p align=center>big blood big money big blood</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=F7F7F7&center=true&width=710&height=102&lines=hi+lol;im+a+developer+that+wont+change+the+world;%23freecali" alt="Typing SVG" /></a>
 
 
 
