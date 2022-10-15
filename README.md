@@ -1,9 +1,8 @@
 <p align=center>big blood big money big blood</p>
-![verlox's GitHub stats](https://github-readme-stats.vercel.app/api?username=antis6cial&show_icons=true&theme=radical)
 
+<a href="https://github.com/antis6cial"><img src="https://github-readme-stats.vercel.app/api?username=antis6cial&theme=github_dark&show_icons=true"></img></a>
 
 <p align="center">
-  <a href="https://github.com/antis6cial"><img src="https://img.shields.io/github/followers/antis6cial?style=for-the-badge"></img></a>
   <a href="https://github.com/antis6cial"><img src="https://img.shields.io/github/stars/antis6cial?style=for-the-badge"></img></a>
   <a href="https://github.com/antis6cial"><img src="https://komarev.com/ghpvc/?username=antis6cial&style=for-the-badge"></img></a>
   
