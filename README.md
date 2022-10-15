@@ -1,6 +1,6 @@
 <p align=center>big blood big money big blood</p>
 
-<a href="https://github.com/antis6cial"><img src="https://github-readme-stats.vercel.app/api?username=antis6cial&theme=github_dark&show_icons=true"></img></a>
+
 
 <p align="center">
   <a href="https://github.com/antis6cial"><img src="https://img.shields.io/github/stars/antis6cial?style=for-the-badge"></img></a>
@@ -21,3 +21,6 @@
 
 
 <p align="center"><img src="https://count.getloli.com/get/@:antis6cial" alt=":antis6cial" /></p>
+
+
+<a href="https://github.com/antis6cial"><img src="https://github-readme-stats.vercel.app/api?username=antis6cial&theme=github_dark&show_icons=true"></img></a>
