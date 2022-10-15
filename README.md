@@ -23,4 +23,4 @@
 <p align="center"><img src="https://count.getloli.com/get/@:ripcali" alt=":ripcali" /></p>
 
 
-<a href="https://github.com/ripcali"><img src="https://github-readme-stats.vercel.app/api?username=ripcali&theme=github_dark&show_icons=true &bg_color=#000,#fff,#000,FFF"></img></a>
+<a href="https://github.com/ripcali"><img src="https://github-readme-stats.vercel.app/api?username=ripcali&bg_color=30,000,fff&title_color=fff&text_color=fff"></img></a>
