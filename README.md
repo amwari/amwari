@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://github.com/antis6cial"><img src="https://img.shields.io/github/followers/antis6cial?style=for-the-badge"></img></a>
   <a href="https://github.com/antis6cial"><img src="https://img.shields.io/github/stars/antis6cial?style=for-the-badge"></img></a>
+  <a href="https://github.com/antis6cial"><img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge"></img></a>
   </a>
 </p>
 
