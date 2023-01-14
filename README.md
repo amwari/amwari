@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ripcali"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
+  web developer currently focusing on python, javascript, and TS. now inactive
 
 </p>
 
