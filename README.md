@@ -3,15 +3,14 @@
 
 
 <p align="center">
-  <a href="https://github.com/ripcali"><img src="https://img.shields.io/github/stars/ripcali?style=for-the-badge"></img></a>
-  <a href="https://github.com/ripcali"><img src="https://komarev.com/ghpvc/?username=ripcali&style=for-the-badge"></img></a>
+
   
   
   </a>
 </p>
 
 <p align="center">
-  web developer currently focusing on python, javascript, and TS. now inactive
+
 
 </p>
 
