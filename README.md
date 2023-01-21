@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=F7E0E0&width=435&lines=hi+there;Web+developer+who+won't+change+the+world;Currently+learning+Python+%26+TS.;x_x)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=F7E0E0&center=true&width=435&lines=hi+there;Web+developer+who+won't+change+the+world;Currently+learning+Python+%26+TS.;x_x)](https://git.io/typing-svg)
 
 
 <p align="center">
