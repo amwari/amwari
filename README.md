@@ -15,7 +15,7 @@
 
 
 
-<p align="center"><img src="https://count.getloli.com/get/@:ripcali" alt=":ripcali" /></p>
+<p align="center"><img src="https://count.getloli.com/get/@:ripcali?theme=rule34" alt=":ripcali" /></p>
 
 
 <a href="https://github.com/am9ri"><img src="https://github-readme-stats.vercel.app/api?username=am9ri&bg_color=30,000,000&title_color=fff&text_color=fff"></img></a>
