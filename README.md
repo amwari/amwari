@@ -7,4 +7,5 @@
 ## » Hi there, I'm @am9ri 😭
 I'm a web developer who's passionate about NodeJS, Python, and PHP.
 
-
+## » Who am I?
+Still working on who I am.
